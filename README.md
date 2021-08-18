@@ -6,11 +6,11 @@ jdk8,11,14,15,16都可运行
 
 ## 截图
 Windows下
-[![foUeEj.png](https://z3.ax1x.com/2021/08/18/foUeEj.png)](https://imgtu.com/i/foUeEj)
+[![foaJQf.png](https://z3.ax1x.com/2021/08/18/foaJQf.png)](https://imgtu.com/i/foaJQf)
 
 ## Q&A
 ### cmd窗口用javac编译时提示“编码GBK的不可映射字符”
-![这是图片](https://imgpp.com/images/2021/08/17/QQ20210817221113.png"编码GBK的不可映射字符")
+[![foUeEj.png](https://z3.ax1x.com/2021/08/18/foUeEj.png)](https://imgtu.com/i/foUeEj)
 
 #### 解决方法一：
 >javac -encoding UTF-8 BKC4beta.java
@@ -19,7 +19,7 @@ Windows下
 
 #### 解决方法二：
 用记事本打开文件，点击 文件(F)-另存为(A)，将编码改为ANSI
-![这是图片](https://imgpp.com/images/2021/08/17/QQ20210817223305.png"另存为")
+[![foa2mF.png](https://z3.ax1x.com/2021/08/18/foa2mF.png)](https://imgtu.com/i/foa2mF)
 
 ### 标题为默认图片
 请将32.png放置于同级目录下
