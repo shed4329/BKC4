@@ -5,7 +5,6 @@
 jdk8,11,14,15,16都可运行
 
 ## 截图
-Windows下
 [![foaJQf.png](https://z3.ax1x.com/2021/08/18/foaJQf.png)](https://imgtu.com/i/foaJQf)
 
 ## Q&A
