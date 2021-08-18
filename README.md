@@ -6,7 +6,7 @@ jdk8,11,14,15,16都可运行
 
 ## 截图
 Windows下
-![这是图片](https://imgpp.com/images/2021/08/17/QQ20210818104407.png"Windows下")
+[![foUeEj.png](https://z3.ax1x.com/2021/08/18/foUeEj.png)](https://imgtu.com/i/foUeEj)
 
 ## Q&A
 ### cmd窗口用javac编译时提示“编码GBK的不可映射字符”
