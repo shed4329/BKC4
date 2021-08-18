@@ -1,8 +1,8 @@
 ## 功能描述
 支持简单的运算，更换计算器的外观
 
-## 版本支持
-jdk8,11,14,15,16都可运行
+## 需要
+jdk8及以上
 
 ## 截图
 [![foaJQf.png](https://z3.ax1x.com/2021/08/18/foaJQf.png)](https://imgtu.com/i/foaJQf)
